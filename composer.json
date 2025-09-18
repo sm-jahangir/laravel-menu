@@ -9,14 +9,14 @@
   ],
   "authors": [
     {
-      "name": "Vfix Technology",
-      "email": "info@vfixtechnology.com",
+      "name": "Jahangir",
+      "email": "samraatjahangir@gmail.com",
       "role": "Developer"
     }
   ],
   "require": {
     "php": ">=8.0",
-    "illuminate/support": "^8.0 || ^9.0 || ^10"
+    "illuminate/support": "^8.0 || ^9.0 || ^10 || ^11.0 || ^12.0"
   },
   "license": "MIT",
   "autoload": {

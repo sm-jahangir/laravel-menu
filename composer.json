@@ -1,15 +1,16 @@
 {
-  "name": "vfixtechnology/laravel-menu",
-  "description": "drag and drop menu generator like wordpress for laravel 9",
+  "name": "codersgift/laravel-menu",
+  "description": "Drag and drop menu generator like WordPress for Laravel 9+",
   "keywords": [
     "Laravel",
     "Menu",
-    "Wordpress",
-    "Builder"
+    "WordPress",
+    "Builder",
+    "CodersGift"
   ],
   "authors": [
     {
-      "name": "Jahangir",
+      "name": "Jahangir (Samraat Jahangir)",
       "email": "samraatjahangir@gmail.com",
       "role": "Developer"
     }
